@@ -2,7 +2,7 @@
 ### Recent graduate of the UMD Infomration Science program, looking to expand my skills and get hired!
  - 🌱 I am currently learning Power BI and working on a personal banking project to expand my portfolio.
  - 🔭 Primary goal is to become a Data Analyst or Scientist, but am open to UI/UX Designer positions as well.
- - ☺️ My primary experience is in Data Analytics utilizing SQL and Excel.
+ - 🍀 My primary experience is in Data Analytics utilizing SQL and Excel.
  - 📱 Exploring career opportunities in Management and IT Tech Consulting.
 ## My Socials
 <a href="https://www.instagram.com/davidnumbertu/" rel="nofollow">
