@@ -12,8 +12,6 @@
     <img src="https://github.com/user-attachments/assets/fd3bf24b-3923-4d58-a255-0e0ed5edd408" width="75" height="75" />
 </a>
 
-
-
 ## Languages and Tools
  - SQL (MySQL Workbench, Tableau)
  - Python (Pandas, Numpy, Matplotlib, Seaborn)
@@ -21,6 +19,11 @@
  - R
  - Power BI (DAX, Visual Reporting)
  - Java
+
+## Fun Facts
+ - 🗣️ I can speak three different foreign languages
+ - 🏃‍♂️ I love physical activity (running and volleyball mainly)
+ - 🎓 I was part of an Asian American Leader coalition for education and youth empowerment
 
 <!--
 **davidnumbertu/davidnumbertu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
